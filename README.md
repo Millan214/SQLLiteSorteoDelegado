@@ -1,0 +1,2 @@
+# SQLLiteSorteoDelegado
+ cosas de android
